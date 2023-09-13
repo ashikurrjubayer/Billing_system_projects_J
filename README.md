@@ -1,3 +1,5 @@
-![Screenshot 2023-09-12 235545](https://github.com/ASHIKUR4789/Billing_system_projects_J/assets/135045951/2bee6b42-139d-45fc-b216-aa98a4e52119)
-![Screenshot 2023-09-12 235654](https://github.com/ASHIKUR4789/Billing_system_projects_J/assets/135045951/c3bd35ce-6795-4f87-b97b-f1acf54c5fd7)
+![Screenshot 2023-09-13 063447](https://github.com/ASHIKUR4789/Billing_system_projects_J/assets/135045951/96e83cca-484f-4bdd-b96d-e93241384f3e)
+![Screenshot 2023-09-13 063659](https://github.com/ASHIKUR4789/Billing_system_projects_J/assets/135045951/321ddfe2-873b-4fe0-8d63-40fba6e049a2)
+
+
 
